@@ -6,6 +6,7 @@
    - daug failu/visus - {"include": ["./*"]} -> tsc
 3. Sukuriame tsconfig.json (json = javascript object notation):
    - Auto compile - {"compileOnSave": true} arba terminale tsc --watch
+4. Patikrinti versija tsc -v
 
 Important TS notes:
 
@@ -22,7 +23,7 @@ Important TS notes:
 
 NOTE:
 
-- grupeje vykdant projekta siunciame tik TS faila
+- grupeje vykdant projekta siunciame tik sukompiliuota JS faila
 
 LINKS:
 https://www.typescriptlang.org/
